@@ -2153,7 +2153,8 @@
 ! J.C 13/12 end
 !-----------------------------------------------------------------------
 !  Set tracers climatology.
-!  KMT don't need temp/salt for offline case
+!  KMT dont need temp/salt for offline case 
+!  J.C
 !-----------------------------------------------------------------------
 !
 #  ifdef ANA_TCLIMA
