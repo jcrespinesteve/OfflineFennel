@@ -1,5 +1,5 @@
 # Offline Fennel
-An offline biogeochemical model within the Regional Ocean Modeling System (ROMS).
+An offline biogeochemical model within the Regional Ocean Modeling System (ROMS). Works with:  https://github.com/kthyng/COAWST-ROMS-OIL
 
 - fennel.h : Addition of new tracers and their respective equations: phosphate (PO4), river detritus for N and C (RIVER_DON), and new oxygen computation: RW14_OXYGEN_SC. 
 
